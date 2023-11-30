@@ -1,0 +1,85 @@
+body {
+  width: 852px;
+  height: 647px;
+  background-color: rgb(158, 177, 187);
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signUpPage {
+  width: 320px;
+  height: 327px;
+  position: relative;
+}
+.signUpPage .emailArea {
+  position: relative;
+}
+.signUpPage .emailArea i {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+.signUpPage .emailArea input {
+  width: 90%;
+  height: 20px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.signUpPage .nameArea {
+  position: relative;
+}
+.signUpPage .nameArea i {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+.signUpPage .nameArea input {
+  width: 90%;
+  height: 20px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.signUpPage .passwordArea {
+  position: relative;
+}
+.signUpPage .passwordArea i {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+.signUpPage .passwordArea input {
+  width: 90%;
+  height: 20px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.signUpPage .passwordCheckArea {
+  position: relative;
+}
+.signUpPage .passwordCheckArea i {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+.signUpPage .passwordCheckArea input {
+  width: 90%;
+  height: 20px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.signUpPage .buttonSignUp {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.signUpPage .buttonSignUp .signUpButton {
+  width: 100px;
+  height: 50px;
+  position: relative;
+}
+.signUpPage .buttonSignUp .signUpButton a {
+  width: 100%;
+  height: 100%;
+}/*# sourceMappingURL=page2.css.map */

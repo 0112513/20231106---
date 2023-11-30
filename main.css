@@ -1,0 +1,71 @@
+body {
+  width: 852px;
+  height: 647px;
+  background-color: rgb(158, 177, 187);
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginBox {
+  width: 322px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.loginPage {
+  width: 320px;
+  height: 327px;
+  position: relative;
+}
+.loginPage .emailArea {
+  position: relative;
+}
+.loginPage .emailArea i {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+.loginPage .emailArea input {
+  width: 90%;
+  height: 20px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.loginPage .passwordArea {
+  position: relative;
+}
+.loginPage .passwordArea i {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
+.loginPage .passwordArea input {
+  width: 90%;
+  height: 20px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.loginPage .login {
+  display: flex;
+  align-items: center;
+}
+.loginPage .login input {
+  margin-right: 150px;
+}
+.loginPage .buttonLogin {
+  display: flex;
+  justify-content: center;
+  margin-top: 280px;
+}
+.loginPage .buttonLogin .loginButton {
+  width: 100px;
+  height: 50px;
+  position: relative;
+}
+.loginPage .buttonLogin .loginButton a {
+  width: 100%;
+  height: 100%;
+}/*# sourceMappingURL=main.css.map */
